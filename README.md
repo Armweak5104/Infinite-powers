@@ -1,6 +1,6 @@
 # Infinite-powers
-Helps you with several math concepts
-The code is in a zip file so I recommend using your desktop to unzip the file aand open the code
-*code is written in largely Javascript
-If it does not work then you can find the project on CodePen with the project name 'Sollicitat'
-Note: This is my first ever time uploading a github repo
+The code was written in p5js and the platform I used was CodePen.
+What the code does is that it provides help with different math topics such as quadratic eqns/ simultaneous eqns/ plotting graphs. 
+There are other topics involved, my favorite being calculus, hence I felt it would be more meaningful to visualize the concept of differentiation and integration. 
+Any requests/suggestions are welcome. 
+The name of the pen on CodePen is called 'Sollicitat'. 
